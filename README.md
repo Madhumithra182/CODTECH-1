@@ -1,8 +1,8 @@
 Name : M.Madhu Mithra M
 company : CODTECH IT SOLUTIONS
-ID : 
+ID : CT08DS8587
 Domain : PYTHON PROGRAMMING
-Duration : 
+Duration : October 5th 2024 to November 5th 2024
 Objective: 
 The primary objective of thr python programming language is to provide w din, easy to keatn and powerful langauge that emphasizes readability snd efficiency 
 key Activities : 
