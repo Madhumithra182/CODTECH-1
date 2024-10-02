@@ -9,7 +9,7 @@ Duration : October 5th 2024 to November 5th 2024
 Objective: 
 
 
-The primary objective of thr python programming language is to provide w din, easy to keatn and powerful langauge that emphasizes readability snd efficiency 
+The primary objective of thr python programming language is to provide simple, easy to learn and powerful langauge that emphasizes readability and efficiency 
 
 
 key Activities : 
